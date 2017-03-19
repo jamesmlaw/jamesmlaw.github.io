@@ -1,0 +1,25 @@
+.welcome {font-family: sans-serif; color: navy;
+    text-align: center;
+}
+.card-block, {margin: 10px;}
+p{text-align: center;
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+ul {text-align: left;
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.hobbies {text-align: center;}
+
+
+iframe {
+	width: 100%;
+}
+
+.fresh {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

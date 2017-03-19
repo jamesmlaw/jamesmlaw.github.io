@@ -1,0 +1,10 @@
+.pink {background-color: #ffccff}
+.brown {background-color: grey;}
+.profileimage {max-width: 100%}
+.jpic {max-height: 100%; border-radius: 10%;}
+.thorntonpic {max-height: 100%; border-radius: 10%;}
+.navbar {
+  background: #ff80ff;
+}
+.game {width:100%;}
+a:hover {opacity:0.8;}

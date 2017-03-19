@@ -1,0 +1,12 @@
+.pink {background-color: #ffccff;}
+h1 {font-family: 'Courgette', cursive; color: #ff80ff; 
+	text-align: center;
+	}
+.row {margin: auto;}
+.gallerypics {
+	max-width: 100%; 
+	height: 350px; 
+	border-radius: 10%; 
+	margin: 10px 0px;
+}
+.home {color: #af08af;}
